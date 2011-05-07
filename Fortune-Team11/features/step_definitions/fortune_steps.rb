@@ -4,7 +4,7 @@ fortune.text.should match /^\n.*\n\s+$/
 end
 
 When /^I enter a fortune id$/ do
-
+'/fortune/get/ID'
 
 end
 
